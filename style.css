@@ -129,6 +129,7 @@ button:focus{
     margin-top: -.9rem;
     border-radius: 100%;
     box-sizing: border-box;
+    cursor: pointer;
 }
 
 #box2 #selected{
